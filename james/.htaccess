@@ -1,0 +1,9 @@
+#This Apache config file was created by Duplicator Installer on 2020-06-14 01:09:50.
+#The original can be found in archived file with the name .htaccess__[HASH]
+
+# BEGIN WordPress
+# The directives (lines) between `BEGIN WordPress` and `END WordPress` are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+
+# END WordPress
