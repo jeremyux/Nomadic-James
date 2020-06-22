@@ -1,0 +1,2710 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Video Background Pro\n"
+"POT-Creation-Date: 2020-03-18 19:53-0700\n"
+"PO-Revision-Date: 2016-06-05 01:12-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: vidbgpro.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/admin_notices.php:19
+msgid ""
+"Thank you for purchasing Video Background Pro! If you need any assistance, "
+"please visit the <a href=\"http://docs.pushlabs.co/video-background-pro/\" "
+"target=\"_blank\">docs</a>."
+msgstr ""
+
+#: inc/classes/vidbg_siteorigin.php:76 inc/classes/vidbg_wpbakery.php:78
+#: inc/classes/vidbg_wpbakery.php:90 inc/classes/vidbg_wpbakery.php:98
+#: inc/classes/vidbg_wpbakery.php:106 inc/classes/vidbg_wpbakery.php:120
+#: inc/classes/vidbg_wpbakery.php:133 inc/classes/vidbg_wpbakery.php:141
+#: inc/classes/vidbg_wpbakery.php:154 inc/register_wpbakery.php:29
+#: inc/register_wpbakery.php:42 inc/register_wpbakery.php:55
+#: inc/register_wpbakery.php:68 inc/register_wpbakery.php:81
+#: inc/register_wpbakery.php:90 inc/register_wpbakery.php:104
+#: inc/register_wpbakery.php:114 inc/register_wpbakery.php:124
+msgid "Video Background"
+msgstr ""
+
+#: inc/classes/vidbg_siteorigin.php:91 inc/classes/vidbg_wpbakery.php:71
+#: inc/register_metaboxes.php:57
+msgid "Link to .mp4"
+msgstr ""
+
+#: inc/classes/vidbg_siteorigin.php:93 inc/classes/vidbg_wpbakery.php:73
+msgid "Please specify the link to the .mp4 file."
+msgstr ""
+
+#: inc/classes/vidbg_siteorigin.php:100 inc/classes/vidbg_wpbakery.php:83
+#: inc/register_metaboxes.php:69
+msgid "Link to .webm"
+msgstr ""
+
+#: inc/classes/vidbg_siteorigin.php:101 inc/classes/vidbg_wpbakery.php:85
+msgid "Please specify the link to the .webm file."
+msgstr ""
+
+#: inc/classes/vidbg_siteorigin.php:108 inc/classes/vidbg_wpbakery.php:95
+msgid "Fallback Image"
+msgstr ""
+
+#: inc/classes/vidbg_siteorigin.php:109 inc/classes/vidbg_wpbakery.php:97
+msgid "Please upload a fallback image."
+msgstr ""
+
+#: inc/classes/vidbg_siteorigin.php:116 inc/classes/vidbg_wpbakery.php:103
+#: inc/register_metaboxes.php:129
+msgid "Enable Overlay?"
+msgstr ""
+
+#: inc/classes/vidbg_siteorigin.php:117 inc/classes/vidbg_wpbakery.php:105
+#: inc/register_metaboxes.php:130
+msgid ""
+"Add an overlay over the video. This is useful if your text isn't readable "
+"with a video background."
+msgstr ""
+
+#: inc/classes/vidbg_siteorigin.php:124 inc/classes/vidbg_wpbakery.php:112
+#: inc/register_metaboxes.php:144
+msgid "Overlay Color"
+msgstr ""
+
+#: inc/classes/vidbg_siteorigin.php:125 inc/classes/vidbg_wpbakery.php:115
+#: inc/register_metaboxes.php:145
+msgid ""
+"If overlay is enabled, a color will be used for the overlay. You can specify "
+"the color here."
+msgstr ""
+
+#: inc/classes/vidbg_siteorigin.php:133 inc/classes/vidbg_wpbakery.php:125
+#: inc/register_metaboxes.php:154
+#: wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:395
+msgid "Overlay Opacity"
+msgstr ""
+
+#: inc/classes/vidbg_siteorigin.php:134 inc/classes/vidbg_wpbakery.php:128
+msgid ""
+"Specify the opacity of the overlay. Accepts any value between 0.00-1.00 with "
+"0 being completely transparent and 1 being completely invisible. Ex. 0.30"
+msgstr ""
+
+#: inc/classes/vidbg_siteorigin.php:142 inc/classes/vidbg_wpbakery.php:138
+msgid "Disable Loop?"
+msgstr ""
+
+#: inc/classes/vidbg_siteorigin.php:143 inc/classes/vidbg_wpbakery.php:140
+#: inc/register_metaboxes.php:167
+msgid ""
+"Turn off the loop for Video Background. Once the video is complete, it will "
+"display the last frame of the video."
+msgstr ""
+
+#: inc/classes/vidbg_siteorigin.php:152 inc/classes/vidbg_wpbakery.php:151
+msgid "Display \"Tap to unmute\" button?"
+msgstr ""
+
+#: inc/classes/vidbg_siteorigin.php:153 inc/classes/vidbg_wpbakery.php:153
+msgid "Allow your users to interact with the sound of the video background."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: inc/register_metaboxes.php:25
+msgid "Video Background Pro"
+msgstr ""
+
+#: inc/register_metaboxes.php:34
+msgid "Container"
+msgstr ""
+
+#: inc/register_metaboxes.php:35
+msgid ""
+"Please specify the container you would like your video background to be in. "
+"<a href=\"https://pushlabs.co/docs/video-background-pro/#finding-your-"
+"container\" target=\"_blank\">Learn how to find your container.</a>"
+msgstr ""
+
+#: inc/register_metaboxes.php:43 inc/register_wpbakery.php:21
+msgid "Video background type"
+msgstr ""
+
+#: inc/register_metaboxes.php:44
+msgid ""
+"Please specify if you would like to self host your video background or use a "
+"youtube video."
+msgstr ""
+
+#: inc/register_metaboxes.php:48 inc/register_siteorigin.php:25
+#: inc/register_wpbakery.php:25
+msgid "Self Host"
+msgstr ""
+
+#: inc/register_metaboxes.php:49
+msgid "Youtube"
+msgstr ""
+
+#: inc/register_metaboxes.php:50 inc/register_siteorigin.php:27
+#: inc/register_wpbakery.php:27
+msgid "Vimeo"
+msgstr ""
+
+#: inc/register_metaboxes.php:58
+msgid ""
+"Please specify the link to the .mp4 file. You can either enter a URL or "
+"upload a file."
+msgstr ""
+
+#: inc/register_metaboxes.php:62
+msgid "Upload .mp4 file"
+msgstr ""
+
+#: inc/register_metaboxes.php:70
+msgid ""
+"Please specify the link to the .webm file. You can either enter a URL or "
+"upload a file."
+msgstr ""
+
+#: inc/register_metaboxes.php:74
+msgid "Upload .webm file"
+msgstr ""
+
+#: inc/register_metaboxes.php:81
+msgid "Link to Youtube video"
+msgstr ""
+
+#: inc/register_metaboxes.php:82
+msgid "Please add the link to the Youtube video."
+msgstr ""
+
+#: inc/register_metaboxes.php:90 inc/register_siteorigin.php:43
+msgid "Youtube Start Second"
+msgstr ""
+
+#: inc/register_metaboxes.php:91 inc/register_siteorigin.php:44
+#: inc/register_wpbakery.php:50
+msgid "The second the YouTube video background starts on."
+msgstr ""
+
+#: inc/register_metaboxes.php:99 inc/register_siteorigin.php:51
+msgid "Youtube End Second"
+msgstr ""
+
+#: inc/register_metaboxes.php:100 inc/register_siteorigin.php:52
+#: inc/register_wpbakery.php:63
+msgid "The second the YouTube video background ends on."
+msgstr ""
+
+#: inc/register_metaboxes.php:108
+msgid "Link to Vimeo Video"
+msgstr ""
+
+#: inc/register_metaboxes.php:109
+msgid "Please add the link to the Vimeo video."
+msgstr ""
+
+#: inc/register_metaboxes.php:117
+msgid "Link to fallback image"
+msgstr ""
+
+#: inc/register_metaboxes.php:118
+msgid ""
+"Please specify a link to the fallback image. You can either enter a URL or "
+"upload a file."
+msgstr ""
+
+#: inc/register_metaboxes.php:122
+msgid "Upload fallback image"
+msgstr ""
+
+#: inc/register_metaboxes.php:135 inc/register_metaboxes.php:172
+#: inc/register_metaboxes.php:186 inc/register_metaboxes.php:200
+#: inc/register_metaboxes.php:214
+msgid "No"
+msgstr ""
+
+#: inc/register_metaboxes.php:136 inc/register_metaboxes.php:173
+#: inc/register_metaboxes.php:187 inc/register_metaboxes.php:201
+#: inc/register_metaboxes.php:215
+msgid "Yes"
+msgstr ""
+
+#: inc/register_metaboxes.php:155
+msgid ""
+"Specify the opacity of the overlay with the left being mostly transparent "
+"and the right being hardly transparent."
+msgstr ""
+
+#: inc/register_metaboxes.php:166
+msgid "Disable loop?"
+msgstr ""
+
+#: inc/register_metaboxes.php:180 inc/register_siteorigin.php:67
+#: inc/register_wpbakery.php:87
+msgid "End video on fallback image?"
+msgstr ""
+
+#: inc/register_metaboxes.php:181 inc/register_siteorigin.php:68
+#: inc/register_wpbakery.php:89
+msgid ""
+"If you would like your video to end on the fallback image, you can enable it "
+"here."
+msgstr ""
+
+#: inc/register_metaboxes.php:194
+msgid "Enable Play/Pause button"
+msgstr ""
+
+#: inc/register_metaboxes.php:195 inc/register_siteorigin.php:76
+#: inc/register_wpbakery.php:102
+msgid ""
+"By enabling this option, a play/pause button will show up in the bottom "
+"right hand corner of the video background."
+msgstr ""
+
+#: inc/register_metaboxes.php:208
+msgid "Enable Mute/Unmute button"
+msgstr ""
+
+#: inc/register_metaboxes.php:209 inc/register_siteorigin.php:84
+#: inc/register_wpbakery.php:112
+msgid ""
+"By enabling this option, a mute/unmute button will show up in the bottom "
+"right hand corner of the video background."
+msgstr ""
+
+#: inc/register_metaboxes.php:222 inc/register_siteorigin.php:91
+#: inc/register_wpbakery.php:121
+msgid "Frontend Buttons Position"
+msgstr ""
+
+#: inc/register_metaboxes.php:223 inc/register_siteorigin.php:92
+#: inc/register_wpbakery.php:122
+msgid ""
+"Please select the position you would like your frontend buttons to be in. "
+"(If applicable)"
+msgstr ""
+
+#: inc/register_metaboxes.php:228 inc/register_siteorigin.php:95
+#: inc/register_wpbakery.php:127
+msgid "Top Right"
+msgstr ""
+
+#: inc/register_metaboxes.php:229 inc/register_siteorigin.php:94
+#: inc/register_wpbakery.php:126
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/register_metaboxes.php:230 inc/register_siteorigin.php:96
+msgid "Bottom Left"
+msgstr ""
+
+#: inc/register_metaboxes.php:231 inc/register_siteorigin.php:97
+msgid "Top Left"
+msgstr ""
+
+#: inc/register_siteorigin.php:21
+msgid "Video Background Type"
+msgstr ""
+
+#: inc/register_siteorigin.php:23 inc/register_wpbakery.php:23
+msgid ""
+"Please specify if you would like to self host your video background or use a "
+"YouTube video instead."
+msgstr ""
+
+#: inc/register_siteorigin.php:26 inc/register_wpbakery.php:26
+msgid "YouTube"
+msgstr ""
+
+#: inc/register_siteorigin.php:35 inc/register_wpbakery.php:35
+msgid "Link to YouTube video"
+msgstr ""
+
+#: inc/register_siteorigin.php:36 inc/register_wpbakery.php:37
+msgid "Please specify the link to the YouTube video."
+msgstr ""
+
+#: inc/register_siteorigin.php:59 inc/register_wpbakery.php:74
+msgid "Link to Vimeo video"
+msgstr ""
+
+#: inc/register_siteorigin.php:60 inc/register_wpbakery.php:76
+msgid "Please specify the link to the Vimeo video."
+msgstr ""
+
+#: inc/register_siteorigin.php:75 inc/register_wpbakery.php:101
+msgid "Enable play/pause button on the frontend?"
+msgstr ""
+
+#: inc/register_siteorigin.php:83 inc/register_wpbakery.php:111
+msgid "Eanble mute/unmute button on the frontend?"
+msgstr ""
+
+#: inc/register_wpbakery.php:48
+msgid "YouTube Start Second"
+msgstr ""
+
+#: inc/register_wpbakery.php:61
+msgid "YouTube End Second"
+msgstr ""
+
+#: inc/register_wpbakery.php:128
+msgid "Bottom left"
+msgstr ""
+
+#: inc/register_wpbakery.php:129
+msgid "Top left"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:80
+msgid "Test Metabox"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:91
+#: inc/vendor/cmb2/example-functions.php:383
+msgid "Test Text"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:92
+#: inc/vendor/cmb2/example-functions.php:104
+#: inc/vendor/cmb2/example-functions.php:112
+#: inc/vendor/cmb2/example-functions.php:120
+#: inc/vendor/cmb2/example-functions.php:129
+#: inc/vendor/cmb2/example-functions.php:137
+#: inc/vendor/cmb2/example-functions.php:152
+#: inc/vendor/cmb2/example-functions.php:160
+#: inc/vendor/cmb2/example-functions.php:168
+#: inc/vendor/cmb2/example-functions.php:185
+#: inc/vendor/cmb2/example-functions.php:194
+#: inc/vendor/cmb2/example-functions.php:207
+#: inc/vendor/cmb2/example-functions.php:214
+#: inc/vendor/cmb2/example-functions.php:221
+#: inc/vendor/cmb2/example-functions.php:235
+#: inc/vendor/cmb2/example-functions.php:248
+#: inc/vendor/cmb2/example-functions.php:261
+#: inc/vendor/cmb2/example-functions.php:273
+#: inc/vendor/cmb2/example-functions.php:282
+#: inc/vendor/cmb2/example-functions.php:290
+#: inc/vendor/cmb2/example-functions.php:299
+#: inc/vendor/cmb2/example-functions.php:306
+#: inc/vendor/cmb2/example-functions.php:320
+#: inc/vendor/cmb2/example-functions.php:384
+#: inc/vendor/cmb2/example-functions.php:475
+#: inc/vendor/cmb2/example-functions.php:483
+#: inc/vendor/cmb2/example-functions.php:490
+#: inc/vendor/cmb2/example-functions.php:497
+#: inc/vendor/cmb2/example-functions.php:504
+#: inc/vendor/cmb2/example-functions.php:511
+#: inc/vendor/cmb2/example-functions.php:518
+#: inc/vendor/cmb2/example-functions.php:545
+#: inc/vendor/cmb2/example-functions.php:553
+#: inc/vendor/cmb2/example-functions.php:560
+#: inc/vendor/cmb2/example-functions.php:597
+msgid "field description (optional)"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:103
+msgid "Test Text Small"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:111
+msgid "Test Text Medium"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:119
+msgid "Website URL"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:128
+msgid "Test Text Email"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:136
+msgid "Test Time"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:144
+#: inc/vendor/cmb2/example-functions.php:145
+msgid "Time zone"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:151
+msgid "Test Date Picker"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:159
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:167
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:184
+msgid "Test Money"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:193
+msgid "Test Color Picker"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:206
+msgid "Test Text Area"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:213
+msgid "Test Text Area Small"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:220
+msgid "Test Text Area for Code"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:227
+msgid "Test Title Weeeee"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:228
+msgid "This is a title description"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:234
+msgid "Test Select"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:240
+#: inc/vendor/cmb2/example-functions.php:253
+#: inc/vendor/cmb2/example-functions.php:265
+msgid "Option One"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:241
+#: inc/vendor/cmb2/example-functions.php:254
+#: inc/vendor/cmb2/example-functions.php:266
+msgid "Option Two"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:242
+#: inc/vendor/cmb2/example-functions.php:255
+#: inc/vendor/cmb2/example-functions.php:267
+msgid "Option Three"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:247
+msgid "Test Radio inline"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:260
+msgid "Test Radio"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:272
+msgid "Test Taxonomy Radio"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:281
+msgid "Test Taxonomy Select"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:289
+msgid "Test Taxonomy Multi Checkbox"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:298
+msgid "Test Checkbox"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:305
+msgid "Test Multi Checkbox"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:311
+msgid "Check One"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:312
+msgid "Check Two"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:313
+msgid "Check Three"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:319
+msgid "Test wysiwyg"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:327
+msgid "Test Image"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:328
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:334
+msgid "Multiple Files"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:335
+msgid "Upload or add multiple images/attachments."
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:342
+msgid "oEmbed"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:343
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at <a "
+"href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress.org/"
+"Embeds</a>."
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:374
+msgid "About Page Metabox"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:403
+msgid "Repeating Field Group"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:411
+msgid "Generates reusable form entries"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:413
+msgid "Entry {#}"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:414
+msgid "Add Another Entry"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:415
+msgid "Remove Entry"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:428
+msgid "Entry Title"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:435
+msgid "Description"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:436
+msgid "Write a short description for this entry"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:442
+msgid "Entry Image"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:448
+msgid "Image Caption"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:467
+msgid "User Profile Metabox"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:474
+#: inc/vendor/cmb2/example-functions.php:544
+msgid "Extra Info"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:482
+msgid "Avatar"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:489
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:496
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:503
+msgid "Google+ URL"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:510
+msgid "Linkedin URL"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:517
+msgid "User Field"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:537
+msgid "Category Metabox"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:552
+msgid "Term Image"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:559
+msgid "Arbitrary Term Field"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:581
+msgid "Theme Options Metabox"
+msgstr ""
+
+#: inc/vendor/cmb2/example-functions.php:596
+msgid "Site Background Color"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2.php:122
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2.php:375
+msgid "Click to toggle"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_Ajax.php:65
+msgid "Please Try Again"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_Ajax.php:155
+msgid "Remove Embed"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_Ajax.php:159
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_Field.php:1030
+msgid "Add Group"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_Field.php:1031
+msgid "Remove Group"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_Field.php:1053
+#: inc/vendor/cmb2/includes/CMB2_Field.php:1057
+msgid "None"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_JS.php:86
+#: inc/vendor/cmb2/includes/CMB2_JS.php:119
+msgid "Clear"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_JS.php:87
+#: wp-content/themes/twentysixteen/inc/customizer.php:315
+#: wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:125
+msgid "Default"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_JS.php:88
+msgid "Select Color"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_JS.php:89
+msgid "Current Color"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_JS.php:109
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_JS.php:110
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_JS.php:111
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_JS.php:112
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_JS.php:113
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_JS.php:114
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_JS.php:115
+#: wp-content/themes/twentynineteen/comments.php:96
+#: wp-content/themes/twentyseventeen/comments.php:72
+#: wp-content/themes/twentyseventeen/single.php:34
+#: wp-content/themes/twentysixteen/single.php:38
+msgid "Next"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_JS.php:116
+msgid "Prev"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_JS.php:117
+msgid "Today"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_JS.php:118
+#: inc/vendor/cmb2/includes/CMB2_JS.php:128
+msgid "Done"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_JS.php:122
+msgid "Choose Time"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_JS.php:123
+msgid "Time"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_JS.php:124
+msgid "Hour"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_JS.php:125
+msgid "Minute"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_JS.php:126
+msgid "Second"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_JS.php:127
+msgid "Now"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_JS.php:129
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson.com/examples/"
+"timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_JS.php:135
+msgid "Use this file"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_JS.php:136
+msgid "Use these files"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_JS.php:137
+#: inc/vendor/cmb2/includes/CMB2_Types.php:1021
+msgid "Remove Image"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_JS.php:138
+#: inc/vendor/cmb2/includes/CMB2_Types.php:357
+#: inc/vendor/cmb2/includes/CMB2_Types.php:1040
+msgid "Remove"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_JS.php:139
+#: inc/vendor/cmb2/includes/CMB2_Types.php:1035
+msgid "File:"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_JS.php:140
+#: inc/vendor/cmb2/includes/CMB2_Types.php:1038
+msgid "Download"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_JS.php:141
+msgid "Select / Deselect All"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_Types.php:298
+msgid "Add Row"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_Types.php:768
+#: inc/vendor/cmb2/includes/CMB2_Types.php:816
+msgid "No terms"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_Types.php:884
+msgid "Add or Upload Files"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_Types.php:945
+msgid "Add or Upload File"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_hookup.php:120
+msgid ""
+"Term Metadata is a WordPress > 4.4 feature. Please upgrade your WordPress "
+"install."
+msgstr ""
+
+#: inc/vendor/cmb2/includes/CMB2_hookup.php:124
+msgid "Term metaboxes configuration requires a 'taxonomies' parameter"
+msgstr ""
+
+#: inc/vendor/cmb2/includes/helper-functions.php:250
+msgid "Save"
+msgstr ""
+
+#: license-page.php:138
+msgid " Activation"
+msgstr ""
+
+#: license-page.php:139
+msgid " API Key Activation"
+msgstr ""
+
+#: license-page.php:140 license-page.php:381
+msgid "API Key Activation"
+msgstr ""
+
+#: license-page.php:141
+msgid "API Key Deactivation"
+msgstr ""
+
+#: license-page.php:142
+msgid "Getting Started"
+msgstr ""
+
+#: license-page.php:301
+#, php-format
+msgid ""
+"The <strong>%s</strong> API Key has not been activated, so the %s is "
+"limited! %sClick here%s to activate <strong>%s</strong>."
+msgstr ""
+
+#: license-page.php:318
+#, php-format
+msgid ""
+"<b>Warning!</b> You're blocking external requests which means you won't be "
+"able to get %s updates. Please add %s to %s."
+msgstr ""
+
+#: license-page.php:352 license-page.php:356
+msgid "Save Changes"
+msgstr ""
+
+#: license-page.php:358
+msgid "<h3>Getting Started</h3>"
+msgstr ""
+
+#: license-page.php:359
+msgid ""
+"<p>Video background Pro makes it easy to add responsive, great looking video "
+"backgrounds to any element on your website. There are four ways to implement "
+"a video background with the Video Background Pro plugin:</p>"
+msgstr ""
+
+#: license-page.php:361
+msgid ""
+"<li><a href=\"http://docs.pushlabs.co/video-background-pro/using-the-metabox/"
+"\" target=\"_blank\">Using the metabox</a></li>"
+msgstr ""
+
+#: license-page.php:362
+msgid ""
+"<li><a href=\"http://docs.pushlabs.co/video-background-pro/using-wpbakery/\" "
+"target=\"_blank\">Using the WPBakery (Visual Composer) integration</a></li>"
+msgstr ""
+
+#: license-page.php:363
+msgid ""
+"<li><a href=\"http://docs.pushlabs.co/video-background-pro/using-siteorigin/"
+"\" target=\"_blank\">Using the SiteOrigin Page Builder Integration</a></li>"
+msgstr ""
+
+#: license-page.php:364
+msgid ""
+"<li><a href=\"http://docs.pushlabs.co/video-background-pro/using-the-"
+"shortcode/\" target=\"_blank\">Using the shortcode.</a></li>"
+msgstr ""
+
+#: license-page.php:366
+msgid ""
+"<p>For full documentation, instructions, and video tutorials, please visit "
+"<a href=\"http://docs.pushlabs.co/video-background-pro\" target=\"_blank"
+"\">the docs</a>.</p>"
+msgstr ""
+
+#: license-page.php:367
+msgid ""
+"<p>If you couldn't find a solution in the docs, please <a href=\"https://"
+"pushlabs.co/support\" target=\"_blank\">open a ticket.</a></p>"
+msgstr ""
+
+#: license-page.php:368
+msgid ""
+"<p>If you've lost you license key, you can <a href=\"https://pushlabs.co/"
+"lost-license/\" target=\"_blank\">recover it here.</a></p>"
+msgstr ""
+
+#: license-page.php:385
+msgid "API Key Status"
+msgstr ""
+
+#: license-page.php:389
+msgid "API Key"
+msgstr ""
+
+#: license-page.php:393
+msgid "API Email"
+msgstr ""
+
+#: license-page.php:399
+msgid "API Deactivation"
+msgstr ""
+
+#: license-page.php:403
+msgid "Deactivate API Key"
+msgstr ""
+
+#: license-page.php:471
+#, php-format
+msgid "%s activated. "
+msgstr ""
+
+#: license-page.php:477
+msgid ""
+"Connection failed to the License Key API server. Try again later. There may "
+"be a problem on your server preventing outgoing requests, or the store is "
+"blocking your request to activate the plugin/theme."
+msgstr ""
+
+#: license-page.php:575
+msgid ""
+"The API Key could not be deactivated. Use the API Key Deactivation tab to "
+"manually deactivate the API Key before activating a new API Key. If all else "
+"fails, go to Plugins, then deactivate and reactivate this plugin, or if a "
+"theme change themes, then change back to this theme, then go to the Settings "
+"for this plugin/theme and enter the API Key information again to activate "
+"it. Also check the My Account dashboard to see if the API Key for this site "
+"was still active before the error message was displayed."
+msgstr ""
+
+#: license-page.php:610
+msgid "API Key deactivated. "
+msgstr ""
+
+#: license-page.php:683
+msgid "Deactivates an API Key so it can be used on another blog."
+msgstr ""
+
+#: license-page.php:1047
+#, php-format
+msgid ""
+"The license key for %s has expired. You can reactivate or purchase a license "
+"key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: license-page.php:1054
+#, php-format
+msgid ""
+"The subscription for %s is on-hold. You can reactivate the subscription from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: license-page.php:1061
+#, php-format
+msgid ""
+"The subscription for %s has been cancelled. You can renew the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>. A new "
+"license key will be emailed to you after your order has been completed."
+msgstr ""
+
+#: license-page.php:1068
+#, php-format
+msgid ""
+"The subscription for %s has expired. You can reactivate the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: license-page.php:1075
+#, php-format
+msgid ""
+"The subscription for %s has been suspended. You can reactivate the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+msgstr ""
+
+#: license-page.php:1082
+#, php-format
+msgid ""
+"The subscription for %s is still pending. You can check on the status of the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+msgstr ""
+
+#: license-page.php:1089
+#, php-format
+msgid ""
+"The subscription for %s has been placed in the trash and will be deleted "
+"soon. You can purchase a new subscription from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: license-page.php:1096
+#, php-format
+msgid ""
+"A subscription for %s could not be found. You can purchase a subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: license-page.php:1103
+#, php-format
+msgid ""
+"A license key for %s could not be found. Maybe you forgot to enter a license "
+"key when setting up %s, or the key was deactivated in your account. You can "
+"reactivate or purchase a license key from your account <a href=\"%s\" target="
+"\"_blank\">dashboard</a>."
+msgstr ""
+
+#: license-page.php:1110
+#, php-format
+msgid ""
+"Download permission for %s has been revoked possibly due to a license key or "
+"subscription expiring. You can reactivate or purchase a license key from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: license-page.php:1117
+#, php-format
+msgid ""
+"%s has not been activated. Go to the settings page and enter the license key "
+"and license email to activate %s."
+msgstr ""
+
+#: license-page.php:1124
+#, php-format
+msgid ""
+"You changed the subscription for %s, so you will need to enter your new API "
+"License Key in the settings page. The License Key should have arrived in "
+"your email inbox, if not you can get it by logging into your account <a href="
+"\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: vidbgpro.php:263
+msgid "Show Advanced Options"
+msgstr ""
+
+#: vidbgpro.php:264
+msgid "Hide Advanced Options"
+msgstr ""
+
+#: vidbgpro.php:373
+msgid ""
+"<a href=\"options-general.php?page=video_background_pro_dashboard\">Getting "
+"Started</a>"
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/parsers.php:42
+#: wp-content/plugins/wordpress-importer/parsers.php:72
+#: wp-content/plugins/wordpress-importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/parsers.php:84
+#: wp-content/plugins/wordpress-importer/parsers.php:89
+#: wp-content/plugins/wordpress-importer/parsers.php:306
+#: wp-content/plugins/wordpress-importer/parsers.php:502
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:132
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:141
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:192
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:196
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:205
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:133
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:176
+msgid "All done."
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:176
+msgid "Have fun!"
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:177
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:197
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:213
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:238
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:264
+msgid "Assign Authors"
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:265
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:267
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:277
+msgid "Import Attachments"
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:280
+msgid "Download and import file attachments"
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:284
+msgid "Submit"
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:297
+msgid "Import author:"
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:308
+msgid "or create new user with login name:"
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:311
+msgid "as a new user:"
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:319
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:321
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:322
+msgid "- Select -"
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:372
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:424
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:467
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:516
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:738
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:605
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:642
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:704
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:870
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:877
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:940
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:953
+msgid "Invalid file type"
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:1003
+msgid "Remote server did not respond"
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:1011
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:1018
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:1023
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:1029
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:1129
+msgid "Import WordPress"
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:1136
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:1151
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:1152
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: wp-content/plugins/wordpress-importer/wordpress-importer.php:1226
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+
+#: wp-content/themes/twentynineteen/404.php:20
+#: wp-content/themes/twentyseventeen/404.php:21
+#: wp-content/themes/twentysixteen/404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: wp-content/themes/twentynineteen/404.php:24
+#: wp-content/themes/twentyseventeen/404.php:24
+#: wp-content/themes/twentysixteen/404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/classes/class-twentynineteen-walker-comment.php:66
+#, php-format
+msgid "%s <span class=\"screen-reader-text says\">says:</span>"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/classes/class-twentynineteen-walker-comment.php:86
+#: wp-content/themes/twentytwenty/classes/class-twentytwenty-walker-comment.php:69
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/classes/class-twentynineteen-walker-comment.php:94
+#: wp-content/themes/twentytwenty/classes/class-twentytwenty-walker-comment.php:77
+msgid "Edit"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/classes/class-twentynineteen-walker-comment.php:99
+#: wp-content/themes/twentytwenty/classes/class-twentytwenty-walker-comment.php:92
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: wp-content/themes/twentynineteen/comments.php:33
+msgid "Join the Conversation"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/comments.php:35
+#: wp-content/themes/twentynineteen/comments.php:105
+#: wp-content/themes/twentynineteen/comments.php:107
+#: wp-content/themes/twentytwenty/comments.php:34
+msgid "Leave a comment"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/comments.php:40
+#: wp-content/themes/twentytwenty/comments.php:37
+#, php-format
+msgctxt "comments title"
+msgid "One reply on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/comments.php:45
+#: wp-content/themes/twentytwenty/comments.php:42
+#, php-format
+msgctxt "comments title"
+msgid "%1$s reply on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wp-content/themes/twentynineteen/comments.php:92
+#: wp-content/themes/twentynineteen/comments.php:95
+#: wp-content/themes/twentynineteen/comments.php:96
+#: wp-content/themes/twentytwenty/comments.php:88
+msgid "Comments"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/comments.php:95
+#: wp-content/themes/twentyseventeen/comments.php:71
+#: wp-content/themes/twentyseventeen/single.php:33
+#: wp-content/themes/twentysixteen/single.php:41
+msgid "Previous"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/comments.php:116
+#: wp-content/themes/twentyseventeen/comments.php:82
+#: wp-content/themes/twentysixteen/comments.php:71
+#: wp-content/themes/twentytwenty/comments.php:127
+msgid "Comments are closed."
+msgstr ""
+
+#: wp-content/themes/twentynineteen/footer.php:25
+#: wp-content/themes/twentyseventeen/template-parts/footer/site-info.php:18
+#: wp-content/themes/twentysixteen/footer.php:60
+#: wp-content/themes/twentytwenty/footer.php:32
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/footer.php:28
+#, php-format
+msgid "Proudly powered by %s."
+msgstr ""
+
+#: wp-content/themes/twentynineteen/footer.php:37
+#: wp-content/themes/twentynineteen/functions.php:60
+#: wp-content/themes/twentytwenty/functions.php:258
+msgid "Footer Menu"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/functions.php:59
+#: wp-content/themes/twentynineteen/functions.php:146
+#: wp-content/themes/twentytwenty/functions.php:491
+#: wp-content/themes/twentytwenty/inc/starter-content.php:176
+#: wp-content/themes/twentytwenty/inc/starter-content.php:186
+msgid "Primary"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/functions.php:61
+#: wp-content/themes/twentynineteen/template-parts/header/site-branding.php:46
+#: wp-content/themes/twentyseventeen/functions.php:65
+#: wp-content/themes/twentyseventeen/functions.php:214
+#: wp-content/themes/twentysixteen/functions.php:93
+#: wp-content/themes/twentysixteen/header.php:67
+#: wp-content/themes/twentytwenty/inc/starter-content.php:196
+msgid "Social Links Menu"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/functions.php:115
+msgid "Small"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/functions.php:116
+msgid "S"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/functions.php:121
+msgid "Normal"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/functions.php:122
+msgid "M"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/functions.php:127
+msgid "Large"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/functions.php:128
+msgid "L"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/functions.php:133
+msgid "Huge"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/functions.php:134
+msgid "XL"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/functions.php:151
+#: wp-content/themes/twentytwenty/functions.php:496
+msgid "Secondary"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/functions.php:156
+#: wp-content/themes/twentysixteen/functions.php:152
+msgid "Dark Gray"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/functions.php:161
+#: wp-content/themes/twentysixteen/functions.php:162
+msgid "Light Gray"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/functions.php:166
+#: wp-content/themes/twentysixteen/functions.php:167
+msgid "White"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/functions.php:188
+#: wp-content/themes/twentynineteen/template-parts/footer/footer-widgets.php:12
+#: wp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php:18
+#: wp-content/themes/twentytwenty/template-parts/footer-menus-widgets.php:37
+msgid "Footer"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/functions.php:190
+#: wp-content/themes/twentyseventeen/functions.php:350
+#: wp-content/themes/twentyseventeen/functions.php:362
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: wp-content/themes/twentynineteen/header.php:25
+#: wp-content/themes/twentyseventeen/header.php:28
+#: wp-content/themes/twentysixteen/header.php:28
+msgid "Skip to content"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/image.php:52
+#: wp-content/themes/twentynineteen/template-parts/content/content-page.php:27
+#: wp-content/themes/twentynineteen/template-parts/content/content-single.php:40
+#: wp-content/themes/twentynineteen/template-parts/content/content.php:49
+#: wp-content/themes/twentyseventeen/template-parts/page/content-page.php:26
+#: wp-content/themes/twentyseventeen/template-parts/post/content-audio.php:91
+#: wp-content/themes/twentyseventeen/template-parts/post/content-gallery.php:78
+#: wp-content/themes/twentyseventeen/template-parts/post/content-image.php:68
+#: wp-content/themes/twentyseventeen/template-parts/post/content-video.php:90
+#: wp-content/themes/twentyseventeen/template-parts/post/content.php:64
+#: wp-content/themes/twentysixteen/image.php:58
+#: wp-content/themes/twentysixteen/template-parts/content-page.php:24
+#: wp-content/themes/twentysixteen/template-parts/content-single.php:26
+#: wp-content/themes/twentysixteen/template-parts/content.php:36
+#: wp-content/themes/twentytwenty/template-parts/content-cover.php:138
+#: wp-content/themes/twentytwenty/template-parts/content.php:48
+msgid "Pages:"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/image.php:56
+#: wp-content/themes/twentyseventeen/archive.php:50
+#: wp-content/themes/twentyseventeen/index.php:54
+#: wp-content/themes/twentyseventeen/search.php:47
+#: wp-content/themes/twentysixteen/archive.php:53
+#: wp-content/themes/twentysixteen/image.php:62
+#: wp-content/themes/twentysixteen/index.php:50
+#: wp-content/themes/twentysixteen/search.php:41
+#: wp-content/themes/twentysixteen/template-parts/content-page.php:28
+#: wp-content/themes/twentysixteen/template-parts/content-single.php:30
+#: wp-content/themes/twentysixteen/template-parts/content.php:40
+#: wp-content/themes/twentytwenty/template-parts/content-cover.php:138
+#: wp-content/themes/twentytwenty/template-parts/content.php:48
+msgid "Page"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/image.php:70
+#: wp-content/themes/twentysixteen/image.php:77
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/image.php:87
+msgctxt "Parent post link"
+msgid ""
+"<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">"
+"%title</span>"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/inc/back-compat.php:39
+#: wp-content/themes/twentynineteen/inc/back-compat.php:53
+#: wp-content/themes/twentynineteen/inc/back-compat.php:73
+#, php-format
+msgid ""
+"Twenty Nineteen requires at least WordPress version 4.7. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: wp-content/themes/twentynineteen/inc/customizer.php:53
+#: wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:123
+msgid "Primary Color"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/inc/customizer.php:55
+msgctxt "primary color"
+msgid "Default"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/inc/customizer.php:56
+msgctxt "primary color"
+msgid "Custom"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/inc/customizer.php:78
+msgid "Apply a custom color for buttons, links, featured images, etc."
+msgstr ""
+
+#: wp-content/themes/twentynineteen/inc/customizer.php:98
+msgid "Apply a filter to featured images using the primary color"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/inc/template-functions.php:74
+msgid "Category Archives: "
+msgstr ""
+
+#: wp-content/themes/twentynineteen/inc/template-functions.php:76
+msgid "Tag Archives: "
+msgstr ""
+
+#: wp-content/themes/twentynineteen/inc/template-functions.php:78
+msgid "Author Archives: "
+msgstr ""
+
+#: wp-content/themes/twentynineteen/inc/template-functions.php:80
+msgid "Yearly Archives: "
+msgstr ""
+
+#: wp-content/themes/twentynineteen/inc/template-functions.php:80
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/inc/template-functions.php:82
+msgid "Monthly Archives: "
+msgstr ""
+
+#: wp-content/themes/twentynineteen/inc/template-functions.php:82
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/inc/template-functions.php:84
+msgid "Daily Archives: "
+msgstr ""
+
+#: wp-content/themes/twentynineteen/inc/template-functions.php:86
+msgid "Post Type Archives: "
+msgstr ""
+
+#: wp-content/themes/twentynineteen/inc/template-functions.php:90
+#, php-format
+msgid "%s Archives:"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/inc/template-functions.php:92
+msgid "Archives:"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/inc/template-functions.php:209
+msgid "More"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/inc/template-functions.php:216
+msgid "Back"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/inc/template-tags.php:46
+msgid "Posted by"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/inc/template-tags.php:63
+#: wp-content/themes/twentysixteen/inc/template-tags.php:52
+#, php-format
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/inc/template-tags.php:86
+#: wp-content/themes/twentynineteen/inc/template-tags.php:98
+#: wp-content/themes/twentyseventeen/inc/template-tags.php:66
+msgid ", "
+msgstr ""
+
+#: wp-content/themes/twentynineteen/inc/template-tags.php:92
+msgid "Posted in"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/inc/template-tags.php:104
+msgid "Tags:"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/inc/template-tags.php:120
+#: wp-content/themes/twentynineteen/template-parts/content/content-page.php:41
+#: wp-content/themes/twentynineteen/template-parts/header/entry-header.php:32
+#: wp-content/themes/twentytwenty/inc/template-tags.php:206
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/inc/template-tags.php:230
+msgid "Newer posts"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/inc/template-tags.php:234
+msgid "Older posts"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/search.php:22
+msgid "Search results for:"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/single.php:31
+#, php-format
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%s</"
+"span>"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/single.php:38
+#: wp-content/themes/twentyseventeen/single.php:34
+msgid "Next Post"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/single.php:39
+#: wp-content/themes/twentysixteen/single.php:39
+msgid "Next post:"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/single.php:41
+#: wp-content/themes/twentyseventeen/single.php:33
+msgid "Previous Post"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/single.php:42
+#: wp-content/themes/twentysixteen/single.php:42
+msgid "Previous post:"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/template-parts/content/content-excerpt.php:18
+#: wp-content/themes/twentynineteen/template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/template-parts/content/content-none.php:16
+#: wp-content/themes/twentyseventeen/search.php:21
+#: wp-content/themes/twentyseventeen/template-parts/post/content-none.php:17
+#: wp-content/themes/twentysixteen/template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/template-parts/content/content-none.php:26
+#: wp-content/themes/twentyseventeen/template-parts/post/content-none.php:24
+#: wp-content/themes/twentysixteen/template-parts/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: wp-content/themes/twentynineteen/template-parts/content/content-none.php:39
+#: wp-content/themes/twentyseventeen/search.php:54
+#: wp-content/themes/twentysixteen/template-parts/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: wp-content/themes/twentynineteen/template-parts/content/content-none.php:46
+#: wp-content/themes/twentyseventeen/template-parts/post/content-none.php:28
+#: wp-content/themes/twentysixteen/template-parts/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: wp-content/themes/twentynineteen/template-parts/content/content-single.php:27
+#: wp-content/themes/twentynineteen/template-parts/content/content.php:36
+#: wp-content/themes/twentyseventeen/functions.php:390
+#: wp-content/themes/twentyseventeen/template-parts/page/content-front-page-panels.php:45
+#: wp-content/themes/twentyseventeen/template-parts/page/content-front-page.php:42
+#: wp-content/themes/twentyseventeen/template-parts/post/content-audio.php:84
+#: wp-content/themes/twentyseventeen/template-parts/post/content-gallery.php:71
+#: wp-content/themes/twentyseventeen/template-parts/post/content-image.php:61
+#: wp-content/themes/twentyseventeen/template-parts/post/content-video.php:83
+#: wp-content/themes/twentyseventeen/template-parts/post/content.php:57
+#: wp-content/themes/twentysixteen/inc/template-tags.php:194
+#: wp-content/themes/twentysixteen/template-parts/content.php:29
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/template-parts/header/site-branding.php:33
+#: wp-content/themes/twentyseventeen/functions.php:64
+#: wp-content/themes/twentyseventeen/functions.php:203
+#: wp-content/themes/twentyseventeen/template-parts/navigation/navigation-top.php:12
+msgid "Top Menu"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/template-parts/post/author-bio.php:17
+#, php-format
+msgid "Published by %s"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr ""
+
+#: wp-content/themes/twentynineteen/template-parts/post/discussion-meta.php:16
+#, php-format
+msgid "%d Comment"
+msgid_plural "%d Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wp-content/themes/twentynineteen/template-parts/post/discussion-meta.php:18
+msgid "No comments"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/archive.php:48
+#: wp-content/themes/twentyseventeen/index.php:52
+#: wp-content/themes/twentyseventeen/search.php:45
+#: wp-content/themes/twentysixteen/archive.php:51
+#: wp-content/themes/twentysixteen/index.php:48
+#: wp-content/themes/twentysixteen/search.php:39
+msgid "Previous page"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/archive.php:49
+#: wp-content/themes/twentyseventeen/index.php:53
+#: wp-content/themes/twentyseventeen/search.php:46
+#: wp-content/themes/twentysixteen/archive.php:52
+#: wp-content/themes/twentysixteen/index.php:49
+#: wp-content/themes/twentysixteen/search.php:40
+msgid "Next page"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/comments.php:37
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/comments.php:42
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wp-content/themes/twentyseventeen/comments.php:62
+msgid "Reply"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/footer.php:26
+#: wp-content/themes/twentysixteen/footer.php:30
+msgid "Footer Social Links Menu"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/functions.php:171
+msgctxt "Theme starter content"
+msgid "Espresso"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/functions.php:175
+msgctxt "Theme starter content"
+msgid "Sandwich"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/functions.php:179
+msgctxt "Theme starter content"
+msgid "Coffee"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/functions.php:289
+msgctxt "Libre Franklin font: on or off"
+msgid "on"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/functions.php:336
+#: wp-content/themes/twentyseventeen/sidebar.php:18
+msgid "Blog Sidebar"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/functions.php:338
+msgid ""
+"Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/functions.php:348
+msgid "Footer 1"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/functions.php:360
+msgid "Footer 2"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/functions.php:481
+msgid "Expand child menu"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/functions.php:482
+msgid "Collapse child menu"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/inc/back-compat.php:39
+#: wp-content/themes/twentyseventeen/inc/back-compat.php:52
+#: wp-content/themes/twentyseventeen/inc/back-compat.php:70
+#, php-format
+msgid ""
+"Twenty Seventeen requires at least WordPress version 4.7. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/inc/custom-header.php:56
+msgid "Default Header Image"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/inc/custom-header.php:127
+msgid "Play background video"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/inc/custom-header.php:128
+msgid "Pause background video"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/inc/customizer.php:60
+msgid "Color Scheme"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/inc/customizer.php:62
+msgid "Light"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/inc/customizer.php:63
+#: wp-content/themes/twentysixteen/inc/customizer.php:325
+msgid "Dark"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/inc/customizer.php:64
+#: wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:126
+msgid "Custom"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/inc/customizer.php:89
+#: wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:202
+msgid "Theme Options"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/inc/customizer.php:106
+msgid "Page Layout"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/inc/customizer.php:109
+msgid ""
+"When the two-column layout is assigned, the page title is in one column and "
+"content is in the other."
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/inc/customizer.php:111
+#: wp-content/themes/twentyseventeen/inc/customizer.php:170
+msgid "One Column"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/inc/customizer.php:112
+#: wp-content/themes/twentyseventeen/inc/customizer.php:171
+msgid "Two Column"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/inc/customizer.php:142
+#, php-format
+msgid "Front Page Section %d Content"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/inc/customizer.php:143
+msgid ""
+"Select pages to feature in each area from the dropdowns. Add an image to a "
+"section by setting a featured image in the page editor. Empty sections will "
+"not be displayed."
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/inc/icon-functions.php:39
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/inc/icon-functions.php:44
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/inc/template-tags.php:21
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/inc/template-tags.php:52
+#, php-format
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/inc/template-tags.php:85
+#: wp-content/themes/twentytwenty/inc/template-tags.php:389
+#: wp-content/themes/twentytwenty/template-parts/content-cover.php:70
+#: wp-content/themes/twentytwenty/template-parts/entry-header.php:36
+msgid "Categories"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/inc/template-tags.php:89
+#: wp-content/themes/twentytwenty/inc/template-tags.php:407
+msgid "Tags"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/inc/template-tags.php:117
+#: wp-content/themes/twentysixteen/image.php:88
+#: wp-content/themes/twentysixteen/template-parts/content-page.php:39
+#: wp-content/themes/twentysixteen/template-parts/content-search.php:28
+#: wp-content/themes/twentysixteen/template-parts/content-search.php:43
+#: wp-content/themes/twentysixteen/template-parts/content-single.php:47
+#: wp-content/themes/twentysixteen/template-parts/content.php:53
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/inc/template-tags.php:151
+#, php-format
+msgid "Front Page Section %1$s Placeholder"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/index.php:27
+msgid "Posts"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/search.php:19
+#: wp-content/themes/twentysixteen/search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/searchform.php:17
+#: wp-content/themes/twentysixteen/searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/searchform.php:19
+#: wp-content/themes/twentysixteen/searchform.php:14
+#: wp-content/themes/twentytwenty/searchform.php:25
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/searchform.php:20
+#: wp-content/themes/twentysixteen/searchform.php:16
+#: wp-content/themes/twentytwenty/searchform.php:27
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/template-parts/footer/site-info.php:19
+#: wp-content/themes/twentysixteen/footer.php:61
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/template-parts/header/site-branding.php:34
+#: wp-content/themes/twentyseventeen/template-parts/navigation/navigation-top.php:31
+msgid "Scroll down to content"
+msgstr ""
+
+#: wp-content/themes/twentyseventeen/template-parts/navigation/navigation-top.php:17
+#: wp-content/themes/twentysixteen/header.php:50
+#: wp-content/themes/twentytwenty/header.php:76
+#: wp-content/themes/twentytwenty/header.php:137
+msgid "Menu"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/comments.php:36
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wp-content/themes/twentysixteen/footer.php:17
+msgid "Footer Primary Menu"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/functions.php:92
+#: wp-content/themes/twentysixteen/header.php:54
+msgid "Primary Menu"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/functions.php:157
+msgid "Medium Gray"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/functions.php:172
+msgid "Blue Gray"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/functions.php:177
+msgid "Bright Blue"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/functions.php:182
+msgid "Light Blue"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/functions.php:187
+msgid "Dark Brown"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/functions.php:192
+msgid "Medium Brown"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/functions.php:197
+msgid "Dark Red"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/functions.php:202
+msgid "Bright Red"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/functions.php:207
+#: wp-content/themes/twentysixteen/inc/customizer.php:355
+msgid "Yellow"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/functions.php:265
+msgid "Sidebar"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/functions.php:267
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: wp-content/themes/twentysixteen/functions.php:277
+msgid "Content Bottom 1"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/functions.php:279
+#: wp-content/themes/twentysixteen/functions.php:291
+msgid "Appears at the bottom of the content on posts and pages."
+msgstr ""
+
+#: wp-content/themes/twentysixteen/functions.php:289
+msgid "Content Bottom 2"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/functions.php:317
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/functions.php:322
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/functions.php:327
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/functions.php:407
+msgid "expand child menu"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/functions.php:408
+msgid "collapse child menu"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/image.php:25
+msgid "Previous Image"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/image.php:26
+msgid "Next Image"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/image.php:107
+#: wp-content/themes/twentysixteen/single.php:31
+msgctxt "Parent post link"
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">"
+"%title</span>"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/inc/back-compat.php:41
+#: wp-content/themes/twentysixteen/inc/back-compat.php:54
+#: wp-content/themes/twentysixteen/inc/back-compat.php:72
+#, php-format
+msgid ""
+"Twenty Sixteen requires at least WordPress version 4.4. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: wp-content/themes/twentysixteen/inc/customizer.php:153
+msgid "Base Color Scheme"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/inc/customizer.php:176
+msgid "Page Background Color"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/inc/customizer.php:200
+msgid "Link Color"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/inc/customizer.php:221
+msgid "Main Text Color"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/inc/customizer.php:242
+msgid "Secondary Text Color"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/inc/customizer.php:335
+msgid "Gray"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/inc/customizer.php:345
+msgid "Red"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/inc/template-tags.php:26
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/inc/template-tags.php:40
+msgctxt "Used before post format."
+msgid "Format"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/inc/template-tags.php:83
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/inc/template-tags.php:99
+#: wp-content/themes/twentysixteen/inc/template-tags.php:108
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: wp-content/themes/twentysixteen/inc/template-tags.php:103
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/inc/template-tags.php:112
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/template-parts/biography.php:28
+msgid "Author:"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/template-parts/biography.php:33
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: wp-content/themes/twentysixteen/template-parts/content.php:14
+msgid "Featured"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/404.php:17
+msgid "Page Not Found"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/404.php:19
+msgid ""
+"The page you were looking for could not be found. It might have been "
+"removed, renamed, or did not exist in the first place."
+msgstr ""
+
+#: wp-content/themes/twentytwenty/404.php:24
+msgid "404 not found"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:81
+msgid "Retina logo"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:82
+msgid ""
+"Scales the logo to half its uploaded size, making it sharp on high-res "
+"screens."
+msgstr ""
+
+#: wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:101
+msgid "Header &amp; Footer Background Color"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:183
+msgid "Apply a custom color for links, buttons, featured images."
+msgstr ""
+
+#: wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:225
+msgid "Show search in header"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:246
+msgid "Show author bio"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:267
+msgid "On archive pages, posts show:"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:269
+msgid "Full text"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:270
+msgid "Summary"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:281
+msgid "Cover Template"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:283
+msgid ""
+"Settings for the \"Cover Template\" page template. Add a featured image to "
+"use as background."
+msgstr ""
+
+#: wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:305
+msgid "Fixed Background Image"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:306
+msgid "Creates a parallax effect when the visitor scrolls."
+msgstr ""
+
+#: wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:352
+msgid "Overlay Background Color"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:353
+msgid "The color used for the overlay. Defaults to the accent color."
+msgstr ""
+
+#: wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:374
+msgid "Overlay Text Color"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:375
+msgid "The color used for the text in the overlay."
+msgstr ""
+
+#: wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:396
+msgid ""
+"Make sure that the contrast is high enough so that the text is readable."
+msgstr ""
+
+#: wp-content/themes/twentytwenty/classes/class-twentytwenty-walker-comment.php:56
+msgid "says:"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/classes/class-twentytwenty-walker-comment.php:127
+msgid "By Post Author"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/classes/class-twentytwenty-walker-page.php:82
+#, php-format
+msgid "#%d (no title)"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/classes/class-twentytwenty-walker-page.php:134
+#: wp-content/themes/twentytwenty/inc/template-tags.php:555
+msgid "Show sub menu"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/comments.php:74
+msgid "Newer Comments"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/comments.php:75
+msgid "Older Comments"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/footer.php:25
+msgctxt "copyright date format"
+msgid "Y"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/footer.php:33
+msgid "Powered by WordPress"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/footer.php:43
+#, php-format
+msgid "To the top %s"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/footer.php:49
+#, php-format
+msgid "Up %s"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/functions.php:255
+msgid "Desktop Horizontal Menu"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/functions.php:256
+msgid "Desktop Expanded Menu"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/functions.php:257
+msgid "Mobile Menu"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/functions.php:259
+msgid "Social Menu"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/functions.php:338
+msgid "Skip to the content"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/functions.php:363
+msgid "Footer #1"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/functions.php:365
+msgid ""
+"Widgets in this area will be displayed in the first column in the footer."
+msgstr ""
+
+#: wp-content/themes/twentytwenty/functions.php:375
+msgid "Footer #2"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/functions.php:377
+msgid ""
+"Widgets in this area will be displayed in the second column in the footer."
+msgstr ""
+
+#: wp-content/themes/twentytwenty/functions.php:486
+msgid "Accent Color"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/functions.php:501
+msgid "Subtle Background"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/functions.php:514
+msgid "Background Color"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/functions.php:529
+msgctxt "Name of the small font size in the block editor"
+msgid "Small"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/functions.php:530
+msgctxt "Short name of the small font size in the block editor."
+msgid "S"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/functions.php:535
+msgctxt "Name of the regular font size in the block editor"
+msgid "Regular"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/functions.php:536
+msgctxt "Short name of the regular font size in the block editor."
+msgid "M"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/functions.php:541
+msgctxt "Name of the large font size in the block editor"
+msgid "Large"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/functions.php:542
+msgctxt "Short name of the large font size in the block editor."
+msgid "L"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/functions.php:547
+msgctxt "Name of the larger font size in the block editor"
+msgid "Larger"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/functions.php:548
+msgctxt "Short name of the larger font size in the block editor."
+msgid "XL"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/header.php:53
+#: wp-content/themes/twentytwenty/header.php:157
+msgid "Search"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/header.php:88
+msgid "Horizontal"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/inc/starter-content.php:38
+msgctxt "Theme starter content"
+msgid "The New UMoMA Opens its Doors"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/inc/starter-content.php:47
+msgid "The New UMoMA Opens its Doors"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/inc/starter-content.php:55
+msgid ""
+"The premier destination for modern art in Northern Sweden. Open from 10 AM "
+"to 6 PM every day during the summer months."
+msgstr ""
+
+#: wp-content/themes/twentytwenty/inc/starter-content.php:66
+msgid "Works and Days"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/inc/starter-content.php:69
+#: wp-content/themes/twentytwenty/inc/starter-content.php:101
+msgid "August 1 -- December 1"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/inc/starter-content.php:72
+#: wp-content/themes/twentytwenty/inc/starter-content.php:87
+#: wp-content/themes/twentytwenty/inc/starter-content.php:104
+#: wp-content/themes/twentytwenty/inc/starter-content.php:119
+msgid "Read More"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/inc/starter-content.php:81
+msgid "Theatre of Operations"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/inc/starter-content.php:84
+#: wp-content/themes/twentytwenty/inc/starter-content.php:116
+msgid "October 1 -- December 1"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/inc/starter-content.php:98
+msgid "The Life I Deserve"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/inc/starter-content.php:113
+msgid "From Signac to Matisse"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/inc/starter-content.php:129
+msgid ""
+"”Cyborgs, as the philosopher Donna Haraway established, are not reverent. "
+"They do not remember the cosmos.”"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/inc/starter-content.php:133
+msgid ""
+"With seven floors of striking architecture, UMoMA shows exhibitions of "
+"international contemporary art, sometimes along with art historical "
+"retrospectives. Existential, political and philosophical issues are "
+"intrinsic to our programme. As visitor you are invited to guided tours "
+"artist talks, lectures, film screenings and other events with free admission"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/inc/starter-content.php:136
+msgid ""
+"The exhibitions are produced by UMoMA in collaboration with artists and "
+"museums around the world and they often attract international attention. "
+"UMoMA has received a Special Commendation from the European Museum of the "
+"Year, and was among the top candidates for the Swedish Museum of the Year "
+"Award as well as for the Council of Europe Museum Prize."
+msgstr ""
+
+#: wp-content/themes/twentytwenty/inc/starter-content.php:144
+msgid "Become a Member and Get Exclusive Offers!"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/inc/starter-content.php:147
+msgid ""
+"Members get access to exclusive exhibits and sales. Our memberships cost "
+"$99.99 and are billed annually."
+msgstr ""
+
+#: wp-content/themes/twentytwenty/inc/starter-content.php:150
+msgid "Join the Club"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/inc/template-tags.php:347
+msgid "Post author"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/inc/template-tags.php:354
+#: wp-content/themes/twentytwenty/template-parts/entry-author-bio.php:20
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/inc/template-tags.php:371
+msgid "Post date"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/inc/template-tags.php:393
+msgctxt "A string that is output before one or more categories"
+msgid "In"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/inc/template-tags.php:445
+msgid "Sticky post"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/index.php:32
+msgid "Search:"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/index.php:40
+#, php-format
+msgid "We found %s result for your search."
+msgid_plural "We found %s results for your search."
+msgstr[0] ""
+msgstr[1] ""
+
+#: wp-content/themes/twentytwenty/index.php:48
+msgid ""
+"We could not find any results for your search. You can give it another try "
+"through the search form below."
+msgstr ""
+
+#: wp-content/themes/twentytwenty/index.php:99
+msgid "search again"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/searchform.php:24
+#: wp-content/themes/twentytwenty/template-parts/modal-search.php:20
+msgid "Search for:"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/template-parts/content-cover.php:88
+msgid "Scroll Down"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/template-parts/content.php:36
+msgid "Continue reading"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/template-parts/entry-author-bio.php:29
+msgid "View Archive <span aria-hidden=\"true\">&rarr;</span>"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/template-parts/footer-menus-widgets.php:57
+msgid "Social links"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/template-parts/modal-menu.php:21
+msgid "Close Menu"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/template-parts/modal-menu.php:48
+msgid "Expanded"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/template-parts/modal-menu.php:73
+msgid "Mobile"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/template-parts/modal-menu.php:117
+msgid "Expanded Social links"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/template-parts/modal-search.php:26
+msgid "Close search"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/template-parts/navigation.php:25
+msgid "Post"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/template-parts/pagination.php:21
+msgid "Newer <span class=\"nav-short\">Posts</span>"
+msgstr ""
+
+#: wp-content/themes/twentytwenty/template-parts/pagination.php:25
+msgid "Older <span class=\"nav-short\">Posts</span>"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://pushlabs.co/video-background-pro/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Pro version of the popular Video Background plugin on the WordPress repo."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Push Labs"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://pushlabs.co"
+msgstr ""
